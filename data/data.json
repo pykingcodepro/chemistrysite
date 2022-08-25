@@ -1,0 +1,94 @@
+{
+    "rootWordList" : {
+        "meth" : 1,
+        "eth": 2,
+        "prop": 3,
+        "but": 4,
+        "pent": 5,
+        "hex": 6,
+        "hept": 7,
+        "oct": 8,
+        "non": 9,
+        "dec": 10
+    },
+    "funcGroup" : [
+        {
+            "name" : "Carboxylic Acid",
+            "prefix" : "",
+            "suffix" : "oic acid",
+            "noOfBond" : 2
+        },
+        {
+            "name" : "Ester",
+            "prefix" : "",
+            "suffix" : "oate",
+            "noOfBond" : 2
+        },
+        {
+            "name" : "Primary Amide",
+            "prefix" : "",
+            "suffix" : "amide",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Cynide",
+            "prefix" : "cyno",
+            "suffix" : "nitrile",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Aldehyde",
+            "prefix" : "formyl",
+            "suffix" : "al",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Ketone",
+            "prefix" : "oxo",
+            "suffix" : "one",
+            "noOfBond" : 2
+        },
+        {
+            "name" : "Alcohol",
+            "prefix" : "Hydroxy",
+            "suffix" : "ol",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Primary Amine",
+            "prefix" : "amino",
+            "suffix" : "amine",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Nitro compound",
+            "prefix" : "nitro",
+            "suffix" : "",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Bromine",
+            "prefix" : "bromo",
+            "sufix" : "bromide",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Iodine",
+            "prefix" : "iodo",
+            "suffix" : "iodide",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Fluorine",
+            "prefix" : "Fluoro",
+            "suffix" : "fluoride",
+            "noOfBond" : 1
+        },
+        {
+            "name" : "Chlorine",
+            "prefix" : "chloro",
+            "suffix" : "chloride",
+            "noOfBond" : 1
+        }
+    ]
+}
